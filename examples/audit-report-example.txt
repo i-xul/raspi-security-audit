@@ -1,0 +1,22 @@
+Raspi Weekly Security Audit — host: myserver — 2026-04-19 12:00:25
+
+[1] Logins (last 7 days)
+--- last -s -7days -Fwi ---
+adminuser pts/0 192.168.1.10 Sun Apr 19 10:37:12 2026 still logged in
+
+--- lastb -s -7days -Fwi ---
+btmp begins Fri Apr 3 20:07:58 2026
+
+[2] User account changes (UID >= 1000)
+  No changes detected
+
+[3] Cron changes vs baseline
+  No changes detected
+
+[4] systemd enabled services vs baseline
+  No changes detected
+
+[5] setuid file changes vs baseline
+  No changes detected
+
+Note: this is an automated report. Baseline file: /var/lib/raspi-audit/baseline.json
