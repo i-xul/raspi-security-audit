@@ -52,3 +52,9 @@ This repository is based on a real audit workflow adapted into a public example.
 AI tools (ChatGPT) were used for idea exploration, script refinement, debugging, and documentation support. The final workflow was tested and adjusted manually in a real environment.
 
 Sensitive information such as real usernames, hostnames, IP addresses, file paths, and email details has been removed from this public version.
+
+## Repository Structure
+
+- `scripts/` – audit automation scripts
+- `examples/` – example audit reports
+- `docs/` – project notes and documentation
