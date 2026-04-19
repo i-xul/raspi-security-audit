@@ -58,3 +58,13 @@ Sensitive information such as real usernames, hostnames, IP addresses, file path
 - `scripts/` – audit automation scripts
 - `examples/` – example audit reports
 - `docs/` – project notes and documentation
+
+## Next Steps
+
+Possible future improvements:
+
+- alerting for specific high-risk changes
+- integration with external monitoring tools
+- support for daily or on-demand audits
+- improved baseline management
+- structured output (JSON) for further processing
